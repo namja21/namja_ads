@@ -5,4 +5,4 @@ atOptions = {
   'width' : 300,
   'params' : {}
 };
-document.write('<script type="text/javascript" src="//abackdamstubborn.com/30fc4ae038b7f7b3541be79f1698356a/invoke.js"><\/script>');
+document.write('<script type="text/javascript" src="https://abackdamstubborn.com/30fc4ae038b7f7b3541be79f1698356a/invoke.js"><\/script>');
